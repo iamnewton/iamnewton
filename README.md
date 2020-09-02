@@ -15,6 +15,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've had 3 different careers all before the age of 40!
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnewton&layout=compact&hide=html" alt="iamnewton" /></p>
+
 #### Technology I Work In Regularly
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -31,6 +33,5 @@
 
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnewton&layout=compact&hide=html" alt="iamnewton" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnewton&show_icons=true" alt="iamnewton" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=iamnewton&show_icons=true" alt="iamnewton" /></p>
 
